@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "me.grok.donutbypass.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "donut-bypass.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

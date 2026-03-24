@@ -1,0 +1,16 @@
+donut-bypass-mod/
+├── build.gradle
+├── gradle.properties
+├── gradlew          (download once: https://services.gradle.org/distributions/gradle-8.10-bin.zip → extract gradlew/gradlew.bat)
+├── gradlew.bat      (Windows)
+├── settings.gradle  (add this)
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── me/
+│       │       └── grok/
+│       │           └── donutbypass/
+│       │               └── DonutBypass.java
+│       └── resources/
+│           ├── fabric.mod.json
+│           └── donut-bypass.mixins.json  (empty for now)
